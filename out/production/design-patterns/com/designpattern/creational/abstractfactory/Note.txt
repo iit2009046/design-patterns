@@ -1,0 +1,9 @@
+1. Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+2. https://www.baeldung.com/java-abstract-factory-pattern
+
+
+Java libraries examples
+
+javax.xml.parsers.DocumentBuilderFactory#newInstance()
+javax.xml.transform.TransformerFactory#newInstance()
+javax.xml.xpath.XPathFactory#newInstance()

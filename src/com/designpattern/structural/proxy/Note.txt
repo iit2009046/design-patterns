@@ -1,0 +1,7 @@
+Java libraries examples:
+
+java.lang.reflect.Proxy
+java.rmi.*
+javax.ejb.EJB (explanation here)
+javax.inject.Inject (explanation here)
+javax.persistence.PersistenceContext

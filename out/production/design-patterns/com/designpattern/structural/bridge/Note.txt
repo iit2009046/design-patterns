@@ -1,0 +1,12 @@
+https://www.geeksforgeeks.org/bridge-design-pattern/
+The Bridge design pattern allows you to separate the abstraction from the implementation.It is a structural design pattern.
+There are 2 parts in Bridge design pattern :
+
+Abstraction
+Implementation
+
+
+Use bridge pattern to map orthogonal class hierarchies
+
+Java libraries examples:
+

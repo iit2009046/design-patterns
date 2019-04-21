@@ -1,0 +1,6 @@
+Java libraries examples:
+
+All subclasses of java.io.InputStream, OutputStream, Reader and Writer have a constructor taking an instance of same type.
+java.util.Collections, the checkedXXX(), synchronizedXXX() and unmodifiableXXX() methods.
+javax.servlet.http.HttpServletRequestWrapper and HttpServletResponseWrapper
+javax.swing.JScrollPane

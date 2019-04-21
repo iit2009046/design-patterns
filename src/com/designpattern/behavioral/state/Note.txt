@@ -1,0 +1,4 @@
+Java libraries examples:
+
+
+javax.faces.lifecycle.LifeCycle#execute() (controlled by FacesServlet, the behaviour is dependent on current phase (state) of JSF lifecycle)

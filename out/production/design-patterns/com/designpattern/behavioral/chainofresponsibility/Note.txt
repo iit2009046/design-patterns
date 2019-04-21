@@ -1,0 +1,4 @@
+Java libraries examples:
+
+java.util.logging.Logger#log()
+javax.servlet.Filter#doFilter()
