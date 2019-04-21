@@ -1,3 +1,0 @@
-Java libraries examples:
-
-java.lang.Integer#valueOf(int) (also on Boolean, Byte, Character, Short, Long and BigDecimal)

@@ -1,6 +1,0 @@
-https://www.geeksforgeeks.org/composite-design-pattern/
-
-Java libraries examples:
-
-java.awt.Container#add(Component) (practically all over Swing thus)
-javax.faces.component.UIComponent#getChildren() (practically all over JSF UI thus)

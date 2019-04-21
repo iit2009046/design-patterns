@@ -1,4 +1,0 @@
-Java libraries examples:
-
-All implementations of java.util.Iterator (thus among others also java.util.Scanner!).
-All implementations of java.util.Enumeration

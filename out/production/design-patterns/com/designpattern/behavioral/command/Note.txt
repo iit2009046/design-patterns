@@ -1,4 +1,0 @@
-Java libraries examples:
-
-All implementations of java.lang.Runnable
-All implementations of javax.swing.Action
