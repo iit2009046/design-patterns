@@ -1,3 +1,20 @@
+Mediator design pattern is one of the important and widely used behavioral design pattern. Mediator enables decoupling of
+objects by introducing a layer in between so that the interaction between objects happen via the layer.
+If the objects interact with each other directly, the system components are tightly-coupled with each other that
+makes higher maintainability cost and not hard to extend. Mediator pattern focuses on providing a mediator between objects for
+communication and help in implementing lose-coupling between objects.
+
+Air traffic controller is a great example of mediator pattern where the airport control room works as a mediator for
+communication between different flights. Mediator works as a router between objects and
+it can have it’s own logic to provide way of communication.
+
+Mediator :It defines the interface for communication between colleague objects.
+ConcreteMediator : It implements the mediator interface and coordinates communication between colleague objects.
+Colleague : It defines the interface for communication with other colleagues
+ConcreteColleague : It implements the colleague interface and communicates with other colleagues through its mediator
+
+
+
 Java libraries examples:
 
 java.util.Timer (all scheduleXXX() methods)

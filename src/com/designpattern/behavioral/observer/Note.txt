@@ -1,3 +1,13 @@
+The Observer Pattern defines a one to many dependency between objects so that one object changes state, all of its dependents are notified and updated automatically.
+
+Explanation:
+
+One to many dependency is between Subject(One) and Observer(Many).
+There is dependency as Observers themselves don’t have access to data. They are dependent on Subject to provide them data.
+
+
+
+
 Java libraries examples:
 
 java.util.Observer/java.util.Observable (rarely used in real world though)
